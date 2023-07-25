@@ -1,5 +1,5 @@
 {
-  "name": "ga-reusabletypescript",
+  "name": "ts-action",
   "version": "0.0.0",
   "description": "Reusable Type Git Actions",
   "main": "dist/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinothramasamy/GA-ReusableTypeScript.git"
+    "url": "git+https://github.com/kumvijay/ts-action.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vinothramasamy/GA-ReusableTypeScript/issues"
+    "url": "https://github.com/kumvijay/ts-action/issues"
   },
-  "homepage": "https://github.com/vinothramasamy/GA-ReusableTypeScript#readme",
+  "homepage": "https://github.com/kumvijay/ts-action#readme",
   "devDependencies": {
     "@types/node": "^20.4.4",
     "typescript": "^5.1.6"
